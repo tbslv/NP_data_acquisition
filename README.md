@@ -1,4 +1,4 @@
-*# Repo for Neuropixel Data Acquisition during sensory stimulation (Temperature, Touch).
+# Repo for Neuropixel Data Acquisition during sensory stimulation (Temperature, Touch).
 
 Neural recordings were performed using Neuropixel probes (Neuropixel 1.0, IMEC) with 383 active channels. The channels closest to the tip were selected for recordings, spanning 3.84 mm of tissue. Data streams were sent to the IMEC PXIe-1000 Base Station, which was housed in a National Instruments PXIe-1071 chassis and connected to a PCIe-8371 card in the acquisition computer via the National Instruments PXIe-8370 module. Data streams were saved as continuous data files.
 
